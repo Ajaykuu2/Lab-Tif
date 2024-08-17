@@ -1,4 +1,4 @@
 # Lab-Tif
 This is my first repository
 <br>
-Author Ajay kumar
+Author Ajay Kumar
